@@ -1,0 +1,127 @@
+body{
+    font-family:"Hiragino Kaku Gothic ProN";
+    color:#5a3121;
+}
+
+.header-list li {
+    list-style:none;
+    float:left;
+    padding:20px 30px;
+}
+
+.header{
+    background-color:#5a3121;
+    color:#fff;
+    height:65px;
+}
+
+.top-wrapper{
+    padding:100px 0 180px 0;
+    background-image:url("cafe HP/../images/toppage.png");
+    background-size:cover;
+    color:white;
+}
+
+.copy{
+    width:1200px;
+    padding:70px 0;
+    margin:0 auto;
+    opacity:0.8;
+    letter-spacing:5px;
+}
+
+.copy h1{
+    font-size:60px;
+    padding-top:30px;
+}
+
+.copy h2{
+    font-size:30px;
+}
+
+.main{
+    width:1200px;
+    padding:0 15px 100px 0;
+    margin:0 auto;
+
+}
+
+
+.about h1{
+    color:#5a3121;
+    border-left:solid 20px #5a3121;
+    border-bottom:solid 2px #5a3121;
+    padding-left:10px;
+}
+
+.about-wrapper{
+    background-image:url("cafe HP/../images/about.png");
+    padding:300px 0 50px 0;
+}
+
+.about-wrapper p{
+    width:1200px;
+    position:absolute;
+    left:140px;
+    top:880px;
+    padding:70px 0;
+    margin:0 auto;
+    opacity:0.6;
+    letter-spacing:3px;
+
+}
+
+
+.menu h1{
+    color:#5a3121;
+    border-left:solid 20px #5a3121;
+    border-bottom:solid 2px #5a3121;
+    padding-left:10px;
+}
+
+.food{
+    float:left;
+    width:25%;
+    background-color:#fff;
+}
+
+.text{
+    text-align:center;
+    font-size:11px;
+}
+
+.text span{
+    font-size:20px;
+}
+
+.food-icon img{
+    width:200px;
+    height:auto;
+    padding-left:50px;
+}
+
+.contact h1{
+    color:#5a3121;
+    border-left:solid 20px #5a3121;
+    border-bottom:solid 2px #5a3121;
+    padding-left:10px;
+}
+
+.footer{
+    background-color:#5a3121;
+    color:#fff;
+    height:100px;
+    padding:40px;
+    width:94%;
+    position:relative;
+    bottom:0;
+}
+
+.footer-list{
+    float:right;
+}
+
+.footer-list li{
+    list-style:none;
+    padding-bottom:20px;
+}
